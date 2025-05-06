@@ -38,3 +38,6 @@ myName = input("Name: ")
 #Problem No.3: Now write the sentence. (Sentemce should look like: userInput is your name)
 #Solution:
 print(myName, "is your name")
+
+print(myName, "is your name")
+print("my name is", myName)

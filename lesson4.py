@@ -24,3 +24,9 @@ if myName == "Arhan":
 
 else:
     print("Hello, Ahmad!")
+    print("Player: ahmad")
+if player == "Ahmad":
+    print("Player: Ahmad")
+
+else:
+    print("Go away!")

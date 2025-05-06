@@ -25,4 +25,5 @@ White | 37
 #print("\033[textcolorcode m your sentence to be printed(optional)")
 #eg. print(\033[33mThis is Yellow Colour)
 print("\033[36mThis is Cyan Color")
+print("\033[34mThis is blue color")
 print("\033[0mThis is Default Color")
