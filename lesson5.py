@@ -43,3 +43,15 @@ else:
 # False -> 0 & 0
 # False -> 0 & 1
 # False -> 1 & 0
+
+username = input("Enter your username: ")
+password = input("Enter your password: ")
+
+if username == "Arhan" and password =="2000":
+    print("Welcome Arhan!")
+
+elif username == "Ahmad" and password == "4500":
+    print("Welcome Ahmad!")
+
+else:
+    print("Go away!")
